@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JOJOVAV
+- 👋 Hi, I’m @JOJOVAV aka JVAV
 - 👀 I’m interested at the moment in networking
 - 😎 I can html, css, little js, basic C#, making and configuring networks
 - 🌱 I’m currently learning in school network- & sysadmin
